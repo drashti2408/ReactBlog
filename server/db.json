@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "title": "Post created by Drashti",
+      "description": "Test",
+      "image": "https://images.pexels.com/photos/5282269/pexels-photo-5282269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "createdBy": "drashtipatel168@gmail.com",
+      "creator": "Drashti Patel",
+      "createdAt": 1620475731612,
+      "id": 1,
+      "likedBy": [
+        {
+          "id": "drashtipatel168@gmail.com"
+        },
+        {
+          "id": "digantpatel92@gmail.com"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "postId": "1",
+      "body": "React-redux learning",
+      "createdBy": "drashtipatel168@gmail.com",
+      "creator": "Drashti Patel",
+      "createdAt": 1620479247122,
+      "id": 1,
+      "likedBy": [
+        {
+          "id": "drashtipatel168@gmail.com"
+        }
+      ]
+    },
+    {
+      "postId": "1",
+      "body": "Testing",
+      "createdBy": "drashtipatel168@gmail.com",
+      "creator": "Drashti Patel",
+      "createdAt": 1620479356360,
+      "id": 2,
+      "likedBy": [
+        {
+          "id": "digantpatel92@gmail.com"
+        },
+        {
+          "id": "drashtipatel168@gmail.com"
+        }
+      ]
+    }
+  ]
+}
